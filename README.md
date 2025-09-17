@@ -2,6 +2,9 @@
 
 Python scripts to analyze E-Rate funding data from the USAC Open Data API.
 
+## Youtube Instructions
+https://www.youtube.com/watch?v=3dXD9WGR0E0
+
 ## Scripts
 
 - `usac_school_query.py` - Historical analysis for a specific school/organization
